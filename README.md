@@ -1,1 +1,2 @@
-# flask-app-multistage-build
+# flask-app-ecs
+Simple flask app to be run on ECS
